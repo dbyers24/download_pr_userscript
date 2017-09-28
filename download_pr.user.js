@@ -1,4 +1,4 @@
-// Added some bash aliases to gios (commented below) script to clear my grading folder and cd into it beforehand, then open the project in atom and live-server afterward
+// Added some bash aliases to gios (commented below) script to clear my grading folder and cd into it beforehand, then open the project in atom and live-server afterward.
 
 // @name         Clone Github Pullrequest
 // @namespace    https://giodamelio.com
