@@ -1,5 +1,3 @@
-// Added functionality to Gios (named below) script to clear a local class folder beforehand, and open the project in atom and live server afterward.
-
 // @name         Clone Github Pullrequest
 // @namespace    https://giodamelio.com
 // @version      0.2.0
